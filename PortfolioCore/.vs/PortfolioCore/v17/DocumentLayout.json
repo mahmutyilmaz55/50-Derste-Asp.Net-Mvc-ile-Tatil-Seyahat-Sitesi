@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\PortfolioCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95BAD9E9-6E59-4A3C-8FF4-B04DA4FDA7E0}|PortfolioCore\\PortfolioCore.csproj|c:\\users\\pc\\source\\repos\\portfoliocore\\portfoliocore\\views\\shared\\components\\_defaultexperiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95BAD9E9-6E59-4A3C-8FF4-B04DA4FDA7E0}|PortfolioCore\\PortfolioCore.csproj|solutionrelative:portfoliocore\\views\\shared\\components\\_defaultexperiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BAD9E9-6E59-4A3C-8FF4-B04DA4FDA7E0}|PortfolioCore\\PortfolioCore.csproj|c:\\users\\pc\\source\\repos\\portfoliocore\\portfoliocore\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95BAD9E9-6E59-4A3C-8FF4-B04DA4FDA7E0}|PortfolioCore\\PortfolioCore.csproj|solutionrelative:portfoliocore\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BAD9E9-6E59-4A3C-8FF4-B04DA4FDA7E0}|PortfolioCore\\PortfolioCore.csproj|c:\\users\\pc\\source\\repos\\portfoliocore\\portfoliocore\\viewcomponents\\_defaultexperiencecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BAD9E9-6E59-4A3C-8FF4-B04DA4FDA7E0}|PortfolioCore\\PortfolioCore.csproj|solutionrelative:portfoliocore\\viewcomponents\\_defaultexperiencecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\PortfolioCore\\PortfolioCore\\Views\\Shared\\Components\\_DefaultExperienceComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCore\\Views\\Shared\\Components\\_DefaultExperienceComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\PortfolioCore\\PortfolioCore\\Views\\Shared\\Components\\_DefaultExperienceComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "PortfolioCore\\Views\\Shared\\Components\\_DefaultExperienceComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T13:48:01.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_DefaultExperienceComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\PortfolioCore\\PortfolioCore\\ViewComponents\\_DefaultExperienceComponentPartial.cs",
+              "RelativeDocumentMoniker": "PortfolioCore\\ViewComponents\\_DefaultExperienceComponentPartial.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\PortfolioCore\\PortfolioCore\\ViewComponents\\_DefaultExperienceComponentPartial.cs",
+              "RelativeToolTip": "PortfolioCore\\ViewComponents\\_DefaultExperienceComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:20:12.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\PortfolioCore\\PortfolioCore\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCore\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\PortfolioCore\\PortfolioCore\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "PortfolioCore\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAANwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T17:06:45.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
